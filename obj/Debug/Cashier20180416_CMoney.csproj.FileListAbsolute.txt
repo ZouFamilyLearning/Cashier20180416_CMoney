@@ -1,0 +1,7 @@
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\bin\Debug\Cashier20180416_CMoney.exe.config
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\bin\Debug\Cashier20180416_CMoney.exe
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\bin\Debug\Cashier20180416_CMoney.pdb
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\obj\Debug\Cashier20180416_CMoney.csprojResolveAssemblyReference.cache
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\obj\Debug\Cashier20180416_CMoney.csproj.CoreCompileInputs.cache
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\obj\Debug\Cashier20180416_CMoney.exe
+C:\Users\captain\source\repos\Cashier20180416_CMoney\Cashier20180416_CMoney\obj\Debug\Cashier20180416_CMoney.pdb
